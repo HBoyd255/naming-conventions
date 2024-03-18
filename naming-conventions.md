@@ -12,7 +12,8 @@ intended to be a comprehensive guide to naming conventions. This is a living
 document, so will be updated as I standardize more of my work.
 
 The official and up to date home of this document is in a public GitHub
-repository titled [naming-conventions]().<!-- TODO Update link-->
+repository titled
+[naming-conventions](https://github.com/HBoyd255/naming-conventions/blob/main/naming-conventions.md).
 
 If you notice and factual errors, or have any suggestions for improvement, feel
 free to open an issue or email me directly at the address at the top of this
