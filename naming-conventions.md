@@ -19,6 +19,21 @@ If you notice and factual errors, or have any suggestions for improvement, feel
 free to open an issue or email me directly at the address at the top of this
 document.
 
+## Examples
+
+| Naming Convention | Example                     |
+| ----------------- | --------------------------- |
+| Pascal Case       | `ThisIsPascalCase`          |
+| Camel Case        | `thisIsCamelCase`           |
+| Snake Case        | `this_is_snake_case`        |
+| Kebab Case        | `this-is-kebab-case`        |
+| Flat Case         | `thisisflatcase`            |
+| Upper Case        | `THISISUPPERCASE`           |
+| Pascal Snake Case | `This_Is_Pascal_Snake_Case` |
+| Macro Case        | `THIS_IS_MACRO_CASE`        |
+| Train Case        | `This-Is-Train-Case`        |
+| Cobol Case        | `THIS-IS-COBOL-CASE`        |
+
 ## Table of Contents
 
 - [Github Repositories](#github-repositories)
@@ -65,3 +80,6 @@ GitHub repository, it should be named the same as the repository, and thus use
 `kebab-case`.
 
 In every instance, the file extension should be `lowercase`.
+
+When including a date in a file name, it should be in the format year-month-day
+so that sorting files alphabetically will also sort them chronologically.
