@@ -83,3 +83,8 @@ In every instance, the file extension should be `lowercase`.
 
 When including a date in a file name, it should be in the format year-month-day
 so that sorting files alphabetically will also sort them chronologically.
+
+## Acronyms
+
+Acronyms need a trailing point, for example, `A.L.I.E.N.` instead of
+`A.L.I.E.N`.
